@@ -9,7 +9,7 @@ The following report summarizes the work done during Google Summer of Code 2024 
 - LinkedIn: https://www.linkedin.com/in/aialok/
 - Twitter: https://x.com/ai_alok
 - University: Indian Institute of Information Techonolgy Ranchi
-- GSoC Organisation: JSON Schema Org
+- GSoC Organisation: [JSON Schema Org](https://github.com/json-schema-org)
 - Project: Setting up the CI/CD Pipeline and Testing for the JSON Schema website
 - Project Link: https://github.com/json-schema-org/community/issues/603
 - Proposal Link: https://drive.google.com/file/d/1Hu7i1_twl9awkcXK_fac0YzqehNgYqGG/view?usp=sharing
