@@ -66,10 +66,10 @@ We are done with all the project Goals and go beyond the scope of project in som
 2. Setup cypress testing libraries, and added Component Tests -->
 
 ## Goals Achieved:
--[] Setup Various CI/CD workflows for the JSON Schema website.
--[] Setup Linting, Formatting, Broken links check, Unit Test, Build, UI Test.
--[] Define and Implement the Unit Testing and UI Testing.
--[] Review and consolidate the existing GitHub workflows approach what will be a mix of CI/CD and Community Ops.
+- [ ] Setup Various CI/CD workflows for the JSON Schema website.
+- [ ] Setup Linting, Formatting, Broken links check, Unit Test, Build, UI Test.
+- [ ] Define and Implement the Unit Testing and UI Testing.
+- [ ] Review and consolidate the existing GitHub workflows approach what will be a mix of CI/CD and Community Ops.
 
 ## Contributions
 
