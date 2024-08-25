@@ -65,11 +65,44 @@ We are done with all the project Goals and go beyond the scope of project in som
 1. Setup Robust CI/CD pipeline consist of code quality checks like formatting, linting, typecheck etc, build, test, deployment, community operations etc.
 2. Setup cypress testing libraries, and added Component Tests -->
 
+
 ## Goals Achieved:
-- [ ] Setup Various CI/CD workflows for the JSON Schema website.
+
+### CI/CD Pipeline
+
+- **CI/CD Workflows for the JSON Schema Website**
+  - [x] Setup linting, formatting, broken link checks, unit tests, build processes, UI tests, stale issue and PR detection, and unauthorized file detection.
+  - [x] Migrated Cloudflare native deployment to GitHub Actions manual deployment workflow due to limitations with preview deployments from forked repositories.
+
+- **JSON Schema Bot**
+  - [x] Created the JSON Schema Bot for community operations and integrated its token into workflows.
+
+### Testing
+
+- **Unit and UI Testing**
+  - [x] Configured Cypress for local test environment setup.
+  - [x] Added Codecov for code coverage reporting and PR notifications.
+  - [x] Implemented GitHub Actions workflow for running Cypress tests.
+  - [x] Added component testing for the website.
+
+### Community Operations
+
+- **Community Operations and GitHub Workflows**
+  - [x] Developed workflows for preview deployments from forked repositories and deployment to Cloudflare Pages.
+  - [x] Created workflows for fetching contributor and project roadmap data.
+  - [x] Implemented workflows for detecting unauthorized file changes.
+  - [x] Added workflows for notifying failed actions and reminding office hours.
+
+### Miscellaneous
+
+- **Additional Contributions**
+  - [x] Introduced GitVote for automated voting processes.
+  - [x] Added stale issues and PR workflows for the community and landscape repositories.
+
+<!-- - [ ] Setup Various CI/CD workflows for the JSON Schema website.
 - [ ] Setup Linting, Formatting, Broken links check, Unit Test, Build, UI Test.
 - [ ] Define and Implement the Unit Testing and UI Testing.
-- [ ] Review and consolidate the existing GitHub workflows approach what will be a mix of CI/CD and Community Ops.
+- [ ] Review and consolidate the existing GitHub workflows approach what will be a mix of CI/CD and Community Ops. -->
 
 ## Contributions
 
